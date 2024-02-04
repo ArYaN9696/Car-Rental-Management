@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640018607 source:c:\users\acer\desktop\final project\car management\main.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<conio.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<iostream>
+	<thread>
+
